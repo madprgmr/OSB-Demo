@@ -1,0 +1,6 @@
+<?php
+
+$MAX_MESSAGE_LEN = 65535;
+$MAX_NAME_LEN = 100;
+
+?>
